@@ -3,7 +3,9 @@
 A FastAPI-based recommendation system that suggests the most relevant SHL assessments based on a Job Description, Natural Language Query, or Job URL.
 
 ---
-
+#deploy link
+https://shl-assessment-recommender-o0vz.onrender.com
+---
 # Features
 
 - SHL Assessment Recommendation Engine
